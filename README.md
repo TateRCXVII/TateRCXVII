@@ -14,5 +14,9 @@ Computer Science student at the University of Utah
 Software Engineer I @ GuideCX, a customer onboarding solution.
 www.guidecx.com
 
+---
+
+I blame squash and merge for my empty commit history.
+
 
 __`I'm ready, how 'bout you?`__
