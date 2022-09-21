@@ -11,6 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=TateRCXVII&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TateRCXVII&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TateRCXVII&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatercxvii)](https://github.com/tatercxvii/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TateRCXVII&theme=nord&no-frame=false&no-bg=true&margin-w=4)
