@@ -12,6 +12,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TateRCXVII&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TateRCXVII&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=html)
 
+Private Repos:
+- Typescript
+- More C# and Java
+- C++
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TateRCXVII&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
