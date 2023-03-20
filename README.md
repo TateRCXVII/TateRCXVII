@@ -18,6 +18,8 @@ Private Repos (24):
 - C++
 - Flutter/Dart
 - SQL
+- TailwindCSS/SCSS
+- GraphQL
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TateRCXVII&theme=nord&no-frame=false&no-bg=true&margin-w=4)
