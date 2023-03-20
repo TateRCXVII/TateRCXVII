@@ -20,6 +20,7 @@ Private Repos (24):
 - SQL
 - TailwindCSS/SCSS
 - GraphQL
+- Ruby on Rails
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TateRCXVII&theme=nord&no-frame=false&no-bg=true&margin-w=4)
