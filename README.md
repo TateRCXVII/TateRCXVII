@@ -1,5 +1,6 @@
 # 💫 About Me:
-![image](https://user-images.githubusercontent.com/48220277/182227935-34a410d7-ea50-461e-acde-598ec0ef3435.png)<br><br>Computer Science student at the University of Utah<br><br>---<br><br>![image](https://user-images.githubusercontent.com/48220277/182227986-1a86e463-0813-47b9-8fb8-4f8a8e860d5e.png)<br><br>---<br><br>Software Engineer I @ GuideCX, a customer onboarding solution.<br>www.guidecx.com<br><br>---<br><br>I blame squash and merge for my empty commit history.
+![image](https://user-images.githubusercontent.com/48220277/182227935-34a410d7-ea50-461e-acde-598ec0ef3435.png)<br><br>Computer Science student at the University of Utah<br><br>---<br><br>!![image](https://github.com/TateRCXVII/TateRCXVII/assets/48220277/ecd2076a-3059-4ba0-9fe1-7a66cfd199ec)
+<br><br>---<br><br> Associate Software Engineer @ [C^RET](https://getcaret.com/)<br>---<br><br>I blame squash and merge for my empty commit history.
 
 
 ## 🌐 Socials:
