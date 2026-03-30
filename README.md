@@ -1,6 +1,5 @@
 # 💫 About Me:
 ![image](https://user-images.githubusercontent.com/48220277/182227935-34a410d7-ea50-461e-acde-598ec0ef3435.png)<br><br>BS Software Dev from The University of Utah<br><br>---<br><br>
-![image](https://github.com/TateRCXVII/TateRCXVII/assets/48220277/ecd2076a-3059-4ba0-9fe1-7a66cfd199ec)
 <br><br>---<br><br> Software Engineer @ Mastercard <br>---<br><br>I blame squash and merge for my empty commit history.
 
 
